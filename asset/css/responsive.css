@@ -1,0 +1,493 @@
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
+    .hero .hero-left h1 {
+        font-size: 71px;
+    }
+
+    .hero .hero-left>p {
+        font-size: 20px;
+    }
+
+    .our-blog {
+        padding-top: 85px;
+    }
+
+    .blog-card {
+        width: 100%;
+    }
+
+    .blog-content h2 {
+        font-size: 19px;
+    }
+
+    .blog-content p {
+        font-size: 14px;
+    font-family: Roboto;
+    font-weight: 400;
+    }
+}
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .hero .hero-left h1{
+        font-size: 50px;
+    }
+    .hero .hero-left>p{
+        font-size: 16px;
+    }
+    .wave-me a{
+        padding: 16px 45px;
+    }
+    .box-1{
+        width: 100%;
+    }
+    .port-img img{
+        width: 100%;
+    }
+    .project-done{
+        width: 100%;
+        height: 320px;
+    }
+    .count{
+        width: 150px;
+        height: 150px;
+    }
+    .blog-card{
+        width: 100%;
+    }
+    .workflow-right .count-down .numbering{
+        height: 50px;
+        width: 50px;
+    }
+    .workflow-right .numberring-content{
+        padding-left: 15px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .hero .hero-left h1{
+        font-size: 50px;
+    }
+    .hero .hero-left>p{
+        font-size: 20px;
+    }
+    .wave-me a{
+        padding: 16px 45px;
+    }
+    .box-1{
+        width: 100%;
+    }
+    .port-img img{
+        width: 100%;
+    }
+    .project-done{
+        width: 100%;
+        height: 320px;
+    }
+    .count{
+        width: 150px;
+        height: 150px;
+    }
+    .blog-card{
+        width: 100%;
+    }
+    .workflow-right .count-down .numbering{
+        height: 50px;
+        width: 50px;
+    }
+    .workflow-right .numberring-content{
+        padding-left: 15px;
+    }
+    .promo-right{
+        padding: 0;
+    }
+    .design{
+        margin: 30px 0;
+    }
+    .blog-card{
+        margin-bottom: 20px;
+    }
+    .foot-contact{
+        padding: 0;
+    }
+    .logo img{
+        width: 100%;
+    }
+    .menu ul li{
+        margin-right: 19px;
+    }
+    .menu ul li a{
+        font-size: 15px;
+    }
+    .button a{
+        font-size: 12px;
+    }
+
+    .wave-me {
+        width: 50%;
+    margin: auto;
+    }
+
+    .hero-right {
+        padding-top: 72px;
+    }
+
+    .about-workflow .workflow h1 {
+        font-size: 25px;
+    }
+
+    .wave-me-2 a {
+        padding: 21px 41px;
+        width: 72%;
+        border-radius: 40px;
+    }
+
+    .wave-me-2 p {
+        font-size: 16px;
+    }
+
+    .client .client-logo .client-logo-img img {
+        width: 91%;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px){
+    .hero .hero-left h1{
+        font-size: 40px;
+    }
+    .hero .hero-left>p{
+        font-size: 18px;
+    }
+    .wave-me a{
+        padding: 15px 41px;
+    }
+    .wave-me p {
+        font-size: 17px;
+    }
+
+    .hero-right {
+        margin-top: 45px;
+    }
+
+    .about-workflow .workflow h1 {
+        font-size: 20px;
+    }
+
+    .wave-me-2 a {
+        padding: 14px 17px;
+    width: 68%;
+    border-radius: 40px;
+    }
+
+    .wave-me-2 p {
+        font-size: 16px;
+    }
+
+    .icon-content h3 {
+        font-size: 34px;
+    }
+
+    .icon-content p {
+        font-size: 23px;
+    }
+
+    .client .client-logo .client-logo-img img {
+        width: 85%;
+    }
+
+    .client .client-logo .client-logo-img {
+        height: auto;
+    }
+
+    .footer-top .social a {
+        width: 35px;
+        height: 35px;
+    }
+
+
+    
+
+    .services-inner h1 {
+        font-size: 26px;
+    }
+
+    .services-inner p {
+        font-size: 14px;
+    }
+    .box-1{
+        width: 75%;
+    }
+    .port-img img{
+        width: 100%;
+    }
+    .project-done{
+        width: 100%;
+        height: 320px;
+    }
+    .count{
+        width: 150px;
+        height: 150px;
+    }
+    .blog-card{
+        width: 100%;
+    }
+    .workflow-right .count-down .numbering{
+        height: 50px;
+        width: 50px;
+    }
+    .workflow-right .numberring-content{
+        padding-left: 15px;
+    }
+    .promo-right{
+        padding: 0;
+        width: 78%;
+    margin: auto;
+    padding-top: 35px;
+    }
+
+    .portfolio-menu h5{
+        font-size: 23px;
+    }
+
+    .portfolio-menu ul li a {
+        font-size: 17px;
+    }
+
+    .design{
+        margin: 30px 0;
+    }
+    .blog-card{
+        margin-bottom: 20px;
+    }
+    .foot-contact{
+        padding: 0;
+    }
+    .logo img{
+        width: auto;
+    }
+    .menu ul li{
+        margin-right: 19px;
+    }
+    .menu ul li a{
+        font-size: 15px;
+    }
+    .button a{
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 768px)  {
+
+    .logo img{
+        width: auto;
+    }
+
+    .logo i {
+        font-size: 25px;
+        display: block;
+    }
+
+    .logo {
+        justify-content: space-between;
+    }
+
+    .menu {
+        display: none;
+        margin-top: 22px;
+    }
+
+    .menu ul {
+        display: block;
+        padding: 0;
+    }
+
+    .button {
+        width: 30%;
+    margin: auto;
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+    display: inline-block;
+    padding: 13px 15px;
+    }
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 576px) {
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+    .button {
+        width: 50%;
+    }
+
+    .theme-btn {
+        padding: 14px 43px;
+    }
+
+    .hero .hero-left h1{
+        font-size: 30px;
+    }
+    .hero .hero-left>p{
+        font-size: 14px;
+    }
+
+    .services-inner h1{
+        font-size: 21px;
+    }
+
+    .box-1{
+        width: 100%;
+    }
+
+    .promo-right{
+        padding-left: 0;
+        padding-top: 50px;
+    }
+    .wave-me a{
+        padding: 15px 41px;
+    }
+    .wave-me p {
+        font-size: 17px;
+    }
+
+    .hero-right {
+        margin-top: 45px;
+    }
+
+    .about-workflow .workflow h1 {
+        font-size: 13px;
+    }
+
+    .workflow-right{
+        padding-top: 55px;
+    }
+
+    .blog-card{
+        width: 100%;
+    }
+
+    .our-blog .blog-inner h1{
+        font-size: 33px;
+    }
+    .our-blog .blog-inner p{
+        font-size: 18px;
+    }
+
+    .about .about-us h2 {
+        font-size: 25px;
+    }
+
+    .about .about-us p{
+        font-size: 15px;
+    }
+
+    .about .about-img-content p{
+        font-size: 14px;
+    }
+
+    .about .about-img-content h4{
+        font-size: 22px;
+    }
+
+    .about .about-img-content h6{
+        font-size: 14px;
+    }
+
+    .about-workflow .workflow h6{
+        font-size: 14px;
+    }
+
+    .wave-me-2 a {
+        padding: 14px 17px;
+        width: 100%;
+        border-radius: 40px;
+    }
+
+    .wave-me-2 img {
+        width: 17px;
+        height: 16px;
+    }
+
+    .wave-me-2 p {
+        font-size: 12px;
+    }
+
+    .feature .design {
+        margin-bottom: 20px;
+    }
+
+    .success-inner h1 {
+        font-size: 34px;
+    }
+
+    .success-inner p {
+        font-size: 15px;
+    }
+
+    .project-done {
+        width: 100%;
+    }
+
+    .icon-content h3 {
+        font-size: 34px;
+    }
+
+    .icon-content p {
+        font-size: 23px;
+    }
+
+    .client .client-logo .client-logo-img img {
+        width: 85%;
+    }
+
+    .client .client-logo .client-logo-img {
+        height: auto;
+    }
+
+    .foot-top .footer-top{
+        margin-bottom: 70px;
+    }
+
+    .footer-top .social {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer-top .foot-menu ul li a{
+        font-size: 17px;
+    }
+
+    .footer-top .contact-inner .phone-number i{
+        font-size: 17px;
+    }
+
+    .footer-top .contact-inner .phone-number h5{
+        font-size: 17px;
+    }
+
+    .footer-top .contact-inner .location i{
+        font-size: 17px;
+    }
+
+    .footer-top .contact-inner .location h6{
+        font-size: 17px;
+    }
+
+    .foot-contact{
+        padding-left: 0;
+    }
+
+    .footer-top .social a {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+/*
+@media only screen and (min-width: 375px) and (max-width: 399px){}
+@media only screen and (min-width: 320px) and (max-width: 374px){}
+*/
